@@ -2,7 +2,8 @@ pynsd-rpcd
 ==========
 
 A [zerorpc](https://github.com/dotcloud/zerorpc-python) based RPC Daemon to create, update and delete zones on NSD master.
-based on [pynsd](https://github.com/novutec/pynsd)
+
+See: [pynsd](https://github.com/novutec/pynsd)
 
 Copyright (c) 2007 - 2013 Novutec Inc. (http://www.novutec.com)
 
