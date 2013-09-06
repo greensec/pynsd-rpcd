@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+#!env python
+import pynsdrpc 
+pynsdrpc.Daemon.cliRun()
