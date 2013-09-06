@@ -10,7 +10,7 @@ Licensed under the Apache License, Version 2.0 (the "License").
 
 Basic Example of Usage
 ------------------------
-To use the rpc daemon you have to change the sample config /etc/[pynsd-rpcd.cfg](https://raw.github.com/novutec/pynsd/master/src/etc/pynsd-rpcd.cfg) to your settings
+To use the rpc daemon you have to change the sample config /etc/[pynsd-rpcd.cfg](https://raw.github.com/novutec/pynsd-rpcd/master/src/etc/pynsd-rpcd.cfg) to your settings
 and start daemon.
  
 ```bash
@@ -63,6 +63,6 @@ pip install -e git+git@github.com:novutec/pynsd-rpcd.git
 #### Requirements
 
 * Python 2.7 / 3.2 / 3.3
-* [zerorpc](https://github.com/dotcloud/zerorpc-python) (for rpc daemon)
-* argparse (to set config file in rpc daemon)
+* [zerorpc](https://github.com/dotcloud/zerorpc-python)
+* argparse
 * [pynsd](https://github.com/novutec/pynsd)
