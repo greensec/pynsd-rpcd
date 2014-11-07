@@ -5,8 +5,8 @@ A [zerorpc](https://github.com/dotcloud/zerorpc-python) based RPC Daemon to crea
 
 See: [pynsd](https://github.com/greensec/pynsd)
 
-Copyright (c) 2007 - 2013 Novutec Inc. (http://www.novutec.com)
-Copyright (c) 2014 greenSec Solutions (http://www.greensec.de)
+ * Copyright (c) 2007 - 2013 Novutec Inc. (http://www.novutec.com)
+ * Copyright (c) 2014 greenSec Solutions (http://www.greensec.de)
 
 Licensed under the Apache License, Version 2.0 (the "License").
 
