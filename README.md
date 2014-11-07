@@ -3,15 +3,16 @@ pynsd-rpcd
 
 A [zerorpc](https://github.com/dotcloud/zerorpc-python) based RPC Daemon to create, update and delete zones on NSD master.
 
-See: [pynsd](https://github.com/novutec/pynsd)
+See: [pynsd](https://github.com/greensec/pynsd)
 
 Copyright (c) 2007 - 2013 Novutec Inc. (http://www.novutec.com)
+Copyright (c) 2014 greenSec Solutions (http://www.greensec.de)
 
 Licensed under the Apache License, Version 2.0 (the "License").
 
 Basic Example of Usage
 ------------------------
-To use the rpc daemon you have to change the sample config /etc/[pynsd-rpcd.cfg](https://raw.github.com/novutec/pynsd-rpcd/master/src/etc/pynsd-rpcd.cfg) to your settings
+To use the rpc daemon you have to change the sample config /etc/[pynsd-rpcd.cfg](https://raw.github.com/greensec/pynsd-rpcd/master/src/etc/pynsd-rpcd.cfg) to your settings
 and start daemon.
  
 ```bash
@@ -58,7 +59,7 @@ Installation
 #### Development version
 
 ```
-pip install -e git+git@github.com:novutec/pynsd-rpcd.git
+pip install -e git+git@github.com:greensec/pynsd-rpcd.git
 ```
 
 #### Requirements
@@ -66,4 +67,4 @@ pip install -e git+git@github.com:novutec/pynsd-rpcd.git
 * Python 2.7 / 3.2 / 3.3
 * [zerorpc](https://github.com/dotcloud/zerorpc-python)
 * argparse
-* [pynsd](https://github.com/novutec/pynsd)
+* [pynsd](https://github.com/greensec/pynsd)
